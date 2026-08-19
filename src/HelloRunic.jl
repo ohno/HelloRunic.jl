@@ -11,7 +11,11 @@ julia> HelloRunic.hello()
 ```
 """
 function hello()
-    return "Hello, World!"
+"Hello, World!"
 end
+
+function add(a,b)
+    return a+b
+ end
 
 end
