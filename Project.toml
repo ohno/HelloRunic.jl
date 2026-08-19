@@ -1,0 +1,7 @@
+name = "HelloRunic"
+uuid = "47fde350-770c-4d77-826d-d72880ddd77a"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
